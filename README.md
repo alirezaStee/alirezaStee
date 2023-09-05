@@ -1,9 +1,7 @@
 ![github-header-image (20)_auto_x2 (1)](https://github.com/alirezaStee/gitTest/assets/133322924/f1981810-bdd0-48bb-ae26-d7811edbca05)
 # 💫 About Me:
-- 👋  hi i'm ali
 - 👀 a junior frontend developer
 - 🌱 i code with Html,Css and Js and I have recently started to learn React js
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 #  Skill:
