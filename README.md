@@ -1,4 +1,7 @@
 # 💫 About Me:
+- 👋  hi it's sepehr
+- 👀 a junior frontend developer
+- 🌱 i code with Html,Css and Js and I have recently started to learn React js
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
