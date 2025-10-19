@@ -5,7 +5,7 @@
 
 
 # :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,nextjs)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alirezaStee&theme=vue&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaStee&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
